@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "meuront": "file:../自作jsライブラリ練習/meuront-1.0.0.tgz",
+    "test-lib": "file:../自作jsライブラリ練習/test-lib-1.0.0.tgz",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "start": "webpack serve"
+  }
+}
